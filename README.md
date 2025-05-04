@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/thunder-icon.png" width="120" height="120" />
+  <img src="https://media.tenor.com/k-BK7fSYDKsAAAAi/mr-eblan.gif" width="120" height="120" />
 </p>
 
 # Thunder Client
