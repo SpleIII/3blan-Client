@@ -6,11 +6,7 @@
 
 3blan Client is a lightweight Rest API Client Extension for Visual Studio Code, hand-crafted by [SpleIII](https://github.com/SpleIII) with a focus on **simplicity, clean design and local storage**. The source code is not open source. You can report any Bugs Or Feature requests here.
 
-- Featured on Product Hunt - [Product Hunt](https://www.producthunt.com/posts/thunder-client)
-- Featured in the "20 Fan Favorite Extensions" for [VS Code](https://www.youtube.com/watch?v=mI5My0cBTv4)
-- Website - [www.thunderclient.com](https://www.thunderclient.com)
-- Extension - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
-- Documentation - [https://docs.thunderclient.com](https://docs.thunderclient.com/)
+- Buy Client - [www.thunderclient.com](https://funpay.com/users/8250177/)
 
 #### Innovations
 
