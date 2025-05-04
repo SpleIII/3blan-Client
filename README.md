@@ -18,9 +18,7 @@
 
 #### Follow Us for Updates
 
-&nbsp;[![Discord](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thunder_client)
-&nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/thunderclient/)
-
+&nbsp;[![Discord](https://img.shields.io/badge/DISCORD-5865F2)](https://discord.gg/VNRZtf7x6z)
 <a name="usage"></a>
 ## Main Features
 
@@ -30,7 +28,3 @@
 - **Local Storage:** The extension saves all data locally on the user's device.
 - **Git Sync:** Save requests data in your Git repository for team collaboration.
 - **Advanced CLI:** Run requests, collections and cURL commands from the terminal.
-
-## Documentation (NEW)
-
-- We're excited to launch our new documentation site - https://docs.thunderclient.com
