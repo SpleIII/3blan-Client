@@ -20,6 +20,7 @@
 
 &nbsp;[![Discord](https://img.shields.io/badge/DISCORD-5865F2)](https://discord.gg/VNRZtf7x6z)
 <a name="usage"></a>
+
 ## Main Features
 
 - **Lightweight** and easy to use REST API Client.
