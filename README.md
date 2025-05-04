@@ -6,7 +6,7 @@
 
 3blan Client is a lightweight Rest API Client Extension for Visual Studio Code, hand-crafted by [SpleIII](https://github.com/SpleIII) with a focus on **simplicity, clean design and local storage**. The source code is not open source. You can report any Bugs Or Feature requests here.
 
-- Buy Client - [FunPay](https://funpay.com/users/8250177/)
+- Buy Client - [CLICK HERE](https://funpay.com/users/8250177/)
 
 #### Innovations
 
