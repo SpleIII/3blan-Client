@@ -18,7 +18,7 @@
 
 #### Следите за нашими обновлениями
 
-&nbsp;[![Discord](https://img.shields.io/badge/DISCORD-5865F2)](https://discord.gg/VNRZtf7x6z)
+&nbsp;[![Discord](https://img.shields.io/badge/DISCORD-5865F2)](https://dsc.gg/3blan)
 <a name="usage"></a>
 
 ## Основные функции
