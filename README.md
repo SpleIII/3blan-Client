@@ -18,7 +18,7 @@
 
 #### Следите за нашими обновлениями
 
-&nbsp;[![Discord](https://img.shields.io/badge/DISCORD-5865F2)](https://dsc.gg/3blan)
+&nbsp;[![Discord](https://img.shields.io/badge/DISCORD-5865F2)](https://dsc.gg/3blan) &nbsp;[![Telegram](https://img.shields.io/badge/TELEGRAM-0088CC)](https://eblanclient.t.me/)
 <a name="usage"></a>
 
 ## Основные функции
